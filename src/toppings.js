@@ -18,7 +18,7 @@ export default [
   "camembert",
   "capers",
   "capicolla",
-  "cardamon",
+  "cardamom",
   "carrot",
   "cauliflower",
   "cheddar",
